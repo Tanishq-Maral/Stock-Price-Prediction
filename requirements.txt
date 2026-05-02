@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+tensorflow
+scikit-learn
+matplotlib
+joblib
+sqlalchemy
+pymysql
+python-dotenv
+cryptography
